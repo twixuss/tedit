@@ -1,0 +1,7 @@
+*/.vs
+bin
+compile_log.txt
+framework.asm
+framework.build.bat
+framework.obj
+profile.tmd
